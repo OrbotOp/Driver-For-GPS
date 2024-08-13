@@ -31,8 +31,8 @@ UTM Easting and UTM Northing values and did analysis of the data I got from GPS 
 
   Scatter plot            |  Line plot             | 
 :-------------------------:|:------------------------:|
-| <img src="gpsdriver/data/Stationary_scatter.png" width=500px> | <img src="gpsdriver/data/Stationary_line.png" width=500px> | 
-| <img src="gpsdriver/data/walking_scatter.png" width=500px> | <img src="gpsdriver/data/walking_line.png" width=500px> |
+| <img src="data/Stationary_scatter.png" width=500px> | <img src="data/Stationary_line.png" width=500px> | 
+| <img src="data/walking_scatter.png" width=500px> | <img src="data/walking_line.png" width=500px> |
 
 # Compensating Errors
 Every error has it’s own way of compensating it, such as:
